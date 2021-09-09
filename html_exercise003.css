@@ -1,0 +1,61 @@
+.main_font{
+    font-family: monospace;
+    font-size: 24px;
+}
+.h1{
+    color: orange;
+    background-color: black;
+}
+.h2{
+    color: darkkhaki;
+    background-color: black;
+}
+.h3{
+    color: blueviolet;
+    background-color: black;
+}
+#line1{
+    color: chartreuse;
+}
+#line2{
+    color: chocolate;
+}
+#line3{
+    color: cornflowerblue;
+}
+#line4{
+    color: darkkhaki;
+}
+#link1{
+    color: orange;
+}
+#link1:hover{
+    color: chartreuse;
+    background-color: black;
+    transition: 2500ms;
+}
+#link1:active{
+    font-size: 30px;
+}
+/*#link1:visited{
+    color: blue;
+}*/
+.table1{
+    background-color: black;
+    color: orange;
+    font-family: monospace;
+    font-size: 30px;
+    border: 10px dashed darkorange;
+}
+#line1{
+    color: chocolate;
+    font-size: 48px;
+}
+#item1{
+    color: chartreuse;
+    border: 3px dashed firebrick;
+}
+#item1:hover{
+    background-color: fuchsia;
+    color: gold;
+}

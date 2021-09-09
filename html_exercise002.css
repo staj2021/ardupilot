@@ -1,0 +1,37 @@
+.h1 {
+    /*
+    background: linear-gradient(rgba(125,125,125), rgba(125,240,160));
+    color: black;
+    transition: 0.5s;
+    */
+    background-color: black;
+    color: orange;
+    font-size: 80px;
+
+}
+/* class'ları .class1 şeklinde yazarak ekle */
+/* id'leri #id1 şeklinde yazarak ekle */
+#li1{
+    color: chartreuse;
+}
+ 
+.h1:hover{
+    background-color: peachpuff;
+    transition: 2500ms;
+}
+.p1{
+    color: rebeccapurple;
+    background-color: slateblue;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.p1:hover{
+    background-color: crimson;
+    transition: 500ms;
+}
+
+.a1:hover{
+    background-color: darkgoldenrod;
+}
+
